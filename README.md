@@ -19,16 +19,16 @@ föregående bild.
 Valfri!
 
 ## Kravspecifikation
-❖ Vanilla JS eller React
-❖ HTML, CSS och JavaScript
-❖ Navigation
-❖ Sidhuvud med logga
-❖ Sidfot
-❖ Bildspel/slider
+- Vanilla JS eller React
+- HTML, CSS och JavaScript
+- Navigation
+- Sidhuvud med logga
+- Sidfot
+- Bildspel/slider
 
 ## Frivilliga krav
-❖ JSX (om du använder React)
-❖ Responsiv design (mobile first)
-❖ Kontaktformulär
+- JSX (om du använder React)
+- Responsiv design (mobile first)
+- Kontaktformulär
 
 Lycka till! 
