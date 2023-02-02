@@ -8,8 +8,8 @@ projekt!
 
 ## Uppgift
 Bygg en enkel ingångssida med bildspel i HTML, CSS och JavaScript. 
-**Ingångssidan** är den webbsida man först hamnar på när man går in på en webbplats. 
-En ”slider” – eller **bildspel** på svenska, är en lista med bilder som tillåter användaren att bläddra till ny bild/tillbaka till
+-**Ingångssidan** är den webbsida man först hamnar på när man går in på en webbplats. 
+-En ”slider” – eller **bildspel** på svenska, är en lista med bilder som tillåter användaren att bläddra till ny bild/tillbaka till
 föregående bild.
 
 
